@@ -1,0 +1,4 @@
+github.com/Hukyl/mlgo v0.0.0-20240211164134-0f2245b38097 h1:vPDlFDMgBIpxSl6KIEhgZ2i6Rwi11BHDFL9qJiG1+vY=
+github.com/Hukyl/mlgo v0.0.0-20240211164134-0f2245b38097/go.mod h1:jmIzxuhYU5OoWy9nHKQ8QdeBPCt66gEe1BskmxY1V0g=
+golang.org/x/exp v0.0.0-20240205201215-2c58cdc269a3 h1:/RIbNt/Zr7rVhIkQhooTxCxFcdWLGIKnZA4IXNFSrvo=
+golang.org/x/exp v0.0.0-20240205201215-2c58cdc269a3/go.mod h1:idGWGoKP1toJGkd5/ig9ZLuPcZBC3ewk7SzmH0uou08=
