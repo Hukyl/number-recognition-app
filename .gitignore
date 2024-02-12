@@ -25,3 +25,5 @@ go.work
 .venv/
 .env/
 .env
+
+__pycache__/
